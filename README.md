@@ -1,4 +1,3 @@
-📘 Overview
 
 Customer churn occurs when customers stop using a company’s products or services, leading to revenue loss and impacting long-term business growth. Understanding why customers churn is essential for developing effective retention strategies and improving customer satisfaction.
 
