@@ -31,6 +31,10 @@ Actionable Insights: Translate model results into practical business recommendat
 
 Programming Language: Python
 
+
+Live Link: https://customer-churn-analysis-predication-one.vercel.app/
+
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Tools: Jupyter Notebook, Google Colab
